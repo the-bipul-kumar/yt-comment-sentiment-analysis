@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = c:\Users\bipul\AppData\Local\Temp
